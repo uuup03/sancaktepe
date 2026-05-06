@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://uuup03.github.io/sancaktepe/sitemap.xml
